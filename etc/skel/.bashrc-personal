@@ -60,3 +60,5 @@ alias pers='/personal'
 # alias sr="sudo reboot"
 
 alias myrepo='~/DATA/New-Device/addmyrepo.sh'
+
+alias mkg='makepkg'
